@@ -33,7 +33,7 @@
 
 
 # create a PowerShell multiline string variable $code that contains the C# code needed to create a _SignUrl .NET class
-# (adapted from https://developers.google.com/maps/documentation/maps-static/get-api-key#c )
+# (adapted from https://developers.google.com/maps/documentation/maps-static/digital-signature#c )
 $code = @"
 using System;
 using System.Collections.Generic;
